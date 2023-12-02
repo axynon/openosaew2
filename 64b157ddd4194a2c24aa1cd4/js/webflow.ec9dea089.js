@@ -1226,10 +1226,6 @@ Let is begin
             marginRight: "8px",
             width: "16px"
           });
-          var $logoText = $("<img>").attr("src", "https://d1otoma47x30pg.cloudfront.net/img/webflow-badge-text.6faa6a38cd.svg").attr("alt", "Made in Webflow");
-          $brand.append($logoArt, $logoText);
-          return $brand[0];
-        }
         function ensureBrand() {
           var found = $body.children(namespace);
           var match = found.length && found.get(0) === brandElement;
