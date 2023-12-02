@@ -62,7 +62,7 @@ Uri: https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d
 File Name: C:\Users\Axynon\Desktop\php2html-release\Новая папка\azizabdullayev.webflow.io\static\custom-checkbox-checkmark.589d534424.svg
 Content Type: image/svg+xml
 
-Uri: https://uploads-ssl.webflow.com/64b157ddd4194a2c24aa1cd4/64b157dfd4194a2c24aa1e5c_favicon.png
+Uri: https://uploads-ssl.webflow.com/assets/logo/logo.svg
 File Name: C:\Users\Axynon\Desktop\php2html-release\Новая папка\azizabdullayev.webflow.io\64b157ddd4194a2c24aa1cd4\64b157dfd4194a2c24aa1e5c_favicon.png
 Content Type: image/png
 
@@ -98,8 +98,8 @@ Uri: https://uploads-ssl.webflow.com/64b157ddd4194a2c24aa1cd4/64b157dfd4194a2c24
 File Name: C:\Users\Axynon\Desktop\php2html-release\Новая папка\azizabdullayev.webflow.io\64b157ddd4194a2c24aa1cd4\64b157dfd4194a2c24aa1e68_Satoshi-Italic.woff2
 Content Type: application/octet-stream
 
-Uri: https://uploads-ssl.webflow.com/64b157ddd4194a2c24aa1cd4/64b157dfd4194a2c24aa1e6a_webclip.png
-File Name: C:\Users\Axynon\Desktop\php2html-release\Новая папка\azizabdullayev.webflow.io\64b157ddd4194a2c24aa1cd4\64b157dfd4194a2c24aa1e6a_webclip.png
+Uri: https://uploads-ssl.webflow.com/64b157ddd4194a2c24aa1cd4/assets/logo/logo.svg
+File Name: C:\Users\Axynon\Desktop\php2html-release\Новая папка\azizabdullayev.webflow.io\64b157ddd4194a2c24aa1cd4\assets/logo/logo.svg
 Content Type: image/png
 
 Uri: https://uploads-ssl.webflow.com/64b157ddd4194a2c24aa1cd4/64b157dfd4194a2c24aa1e6b_image.svg
