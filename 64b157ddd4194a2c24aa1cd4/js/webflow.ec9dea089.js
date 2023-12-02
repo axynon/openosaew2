@@ -1205,7 +1205,7 @@ Let is begin
         var brandElement;
         api.ready = function() {
           var shouldBrand = $html.attr("data-wf-status");
-          var publishedDomain = $html.attr("data-wf-domain") || "";
+          var publishedDomain = $html.attr("changemelater") || "";
           if (/\.webflow\.io$/i.test(publishedDomain) && location.hostname !== publishedDomain) {
             shouldBrand = true;
           }
